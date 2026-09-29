@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@config "../tailwind.config.ts";
+
+@theme {
+  --color-hospital-canvas: #f8faf9;
+  --color-hospital-surface: #ffffff;
+  --color-hospital-surface-subtle: #f3f7f5;
+  --color-hospital-border: #e2ece4;
+  --color-hospital-border-light: #eef5f0;
+  --color-hospital-text: #1a2920;
+  --color-hospital-text-muted: #516559;
+
+  --color-sage-50: #f4f8f5;
+  --color-sage-100: #e4efe7;
+  --color-sage-200: #cbe0d1;
+  --color-sage-300: #a6c6af;
+  --color-sage-400: #7da78a;
+  --color-sage-500: #5c8d6b;
+  --color-sage-600: #467154;
+  --color-sage-700: #385a43;
+  --color-sage-800: #2d4635;
+  --color-sage-900: #23372a;
+
+  --color-serene-50: #f0f6f8;
+  --color-serene-100: #dcebf1;
+  --color-serene-200: #bddbe5;
+  --color-serene-300: #90c3d3;
+  --color-serene-400: #5ba3b9;
+  --color-serene-500: #3c869c;
+  --color-serene-600: #306c7f;
+  --color-serene-700: #2b5867;
+  --color-serene-800: #274955;
+  --color-serene-900: #243e48;
+
+  --color-calm-teal-50: #f0f9f8;
+  --color-calm-teal-100: #d9f1ee;
+  --color-calm-teal-200: #b6e3dd;
+  --color-calm-teal-300: #86cfc5;
+  --color-calm-teal-400: #52b3a8;
+  --color-calm-teal-500: #35968b;
+  --color-calm-teal-600: #28786f;
+  --color-calm-teal-700: #23605a;
+  --color-calm-teal-800: #204d49;
+  --color-calm-teal-900: #1e403d;
+
+  --color-soft-rose-50: #fdf5f5;
+  --color-soft-rose-100: #fbe9e9;
+  --color-soft-rose-200: #f7d6d6;
+  --color-soft-rose-700: #973636;
+
+  --color-soft-amber-50: #fef9ee;
+  --color-soft-amber-100: #fcf0d5;
+  --color-soft-amber-200: #f8e0ab;
+  --color-soft-amber-700: #985616;
+}
+
+/* Accessible focus ring and smooth rendering */
+*:focus-visible {
+  outline: 2px solid var(--color-calm-teal-600, #28786f);
+  outline-offset: 2px;
+}
+
+body {
+  background-color: var(--color-hospital-canvas, #f8faf9);
+  color: var(--color-hospital-text, #1a2920);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}

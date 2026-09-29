@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Hospital Resource Allocator (HLTH-02)",
+  "description": "Real-time emergency dispatch and hospital resource coordination system featuring multi-factor ranking, live WebSocket availability, atomic double-booking prevention, stale data warnings, and automatic alternative hospital rerouting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
