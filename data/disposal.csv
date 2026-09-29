@@ -1,0 +1,6 @@
+site_id,name,lat,lon,gate_fee_inr_t,handling_em_kg_t
+D1,Ash pond - Chandrapur,19.98,79.35,200,10
+D2,Landfill - Raigad,18.60,73.10,300,12
+D3,Landfill - Nagpur,21.10,79.10,220,12
+D4,Landfill - Nashik,20.00,73.80,260,12
+D5,Tailings dam - Balaghat,22.05,80.65,150,15

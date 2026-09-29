@@ -1,0 +1,25 @@
+# Palette (Color Hunt): #6E3511 brown, #91AC67 sage, #597928 olive, #FCECD8 cream.
+# Both themes are defined: switch under the top-right menu -> Settings -> Theme.
+
+[theme.light]
+primaryColor = "#597928"
+backgroundColor = "#FCECD8"
+secondaryBackgroundColor = "#F2DFC4"
+textColor = "#6E3511"
+borderColor = "#91AC67"
+showWidgetBorder = true
+baseRadius = "0.9rem"
+buttonRadius = "0.75rem"
+
+[theme.dark]
+primaryColor = "#91AC67"
+backgroundColor = "#1E1208"
+secondaryBackgroundColor = "#33200F"
+textColor = "#FCECD8"
+borderColor = "#597928"
+showWidgetBorder = true
+baseRadius = "0.9rem"
+buttonRadius = "0.75rem"
+
+[browser]
+gatherUsageStats = false
