@@ -1,6 +1,0 @@
-pathway_id,pathway,applies_to,process_cost_inr_t,process_em_kg_t,substitution_ratio,displaced_product,displaced_ef_kg_t
-P1,Cement blending (PPC),Fly Ash,120,15,0.8,Portland cement,700
-P2,Ground slag (GGBS) for concrete,Slag,300,60,1.0,Portland cement,700
-P3,Fly-ash bricks/blocks,Fly Ash,50,10,1.0,Fired clay brick,130
-P4,Road sub-base / embankment,Fly Ash;Slag;Mine Tailings,30,3,1.0,Natural aggregate / soil,8
-P5,Mine paste backfill,Mine Tailings,150,40,1.0,Rock fill / surface tailings storage,10

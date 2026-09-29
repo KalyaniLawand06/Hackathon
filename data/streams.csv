@@ -1,7 +1,0 @@
-stream_id,name,material,tonnes,location,lat,lon,sio2,al2o3,fe2o3,cao,mgo,so3,loi,moisture,retained_45um,sulphide_s,glass_pct
-S1,Fly ash - Chandrapur STPS,Fly Ash,50000,Chandrapur,19.95,79.30,58,27,6,2.5,1.0,1.1,2.8,0.8,28,0,
-S2,Fly ash - Nashik (high LOI),Fly Ash,20000,Nashik,19.97,73.85,52,24,5,2.0,0.9,1.4,9.5,3.5,42,0,
-S3,Granulated BF slag - Raigad,Slag,30000,Raigad,18.70,73.05,34,14,0.8,38,8.5,0.6,0.4,0.5,,0.7,92
-S4,Air-cooled BF slag stockpile - Raigad,Slag,15000,Raigad,18.68,73.10,35,12,1.0,36,9,0.5,0.6,0.5,,0.9,20
-S5,Mine tailings - Kandri (low sulphur),Mine Tailings,40000,Nagpur,21.35,79.35,62,12,9,1.5,1.2,0.4,3.0,12,,0.6,
-S6,Mine tailings - Malanjkhand (sulphidic),Mine Tailings,25000,Balaghat,22.02,80.68,55,10,12,1.0,1.0,1.8,4.0,15,,4.5,
